@@ -1,6 +1,6 @@
 # Business Support Operation Repository <br>
 
-# Welcome to the Business Support Operation Repository! 🚀
+## Welcome to the Business Support Operation Repository! 🚀
 
 ## What Is It?
 The Business Support Operation repository serves as a central hub for storing critical information about how an enterprise operates. Think of it as a treasure trove of knowledge that encapsulates the organization’s processes, procedures, and best practices.
